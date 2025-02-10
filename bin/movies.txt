@@ -1,0 +1,149 @@
+Title: الفيل الأزرق
+Description: طبيب نفسي يواجه أسرارًا غامضة في مستشفى الأمراض العقلية.
+Release Year: 2014
+Rating: 8.5
+
+Title: كازابلانكا
+Description: مغامرة عصابة تتنقل بين مصر والمغرب.
+Release Year: 2019
+Rating: 7.9
+
+Title: اللمبي
+Description: شاب عشوائي يواجه تحديات الحياة اليومية بطريقة كوميدية.
+Release Year: 2002
+Rating: 7.3
+
+Title: الإرهاب والكباب
+Description: رجل يجد نفسه في مواجهة مع النظام داخل مجمع التحرير.
+Release Year: 1992
+Rating: 8.1
+
+Title: حرامية في كي جي تو
+Description: لصوص يضطرون للاندماج مع أطفال في مدرسة ابتدائية.
+Release Year: 2002
+Rating: 7.2
+
+Title: الناظر
+Description: ابن مدير مدرسة يضطر لإدارتها بعد وفاة والده.
+Release Year: 2000
+Rating: 8.3
+
+Title: عسل أسود
+Description: مهاجر يعود إلى مصر ليواجه تغيرات المجتمع بعد غياب طويل.
+Release Year: 2010
+Rating: 8.0
+
+Title: عمارة يعقوبيان
+Description: استعراض لحياة سكان مبنى يعقوبيان بمختلف طبقاتهم الاجتماعية.
+Release Year: 2006
+Rating: 7.7
+
+Title: الجزيرة
+Description: دراما عن صراع السلطة بين العائلات في صعيد مصر.
+Release Year: 2007
+Rating: 8.1
+
+Title: الأفوكاتو
+Description: محامٍ يعتمد على الحيل القانونية للفوز بالقضايا.
+Release Year: 1983
+Rating: 8.0
+
+Title: غبي منه فيه
+Description: لص غبي يقع في حب فتاة تعمل في البنك الذي ينوي سرقته.
+Release Year: 2004
+Rating: 7.0
+
+Title: التجربة الدنماركية
+Description: وزير شؤون الشباب يضطر لاستضافة شابة دنماركية في منزله.
+Release Year: 2003
+Rating: 7.5
+
+Title: عودة الندلة
+Description: امرأة تقرر العودة للانتقام من الماضي.
+Release Year: 2006
+Rating: 7.2
+
+Title: عمر وسلمى
+Description: قصة حب شاب لا يهتم بالارتباط الجاد حتى يجد الحب الحقيقي.
+Release Year: 2007
+Rating: 7.6
+
+Title: خلي بالك من زوزو
+Description: طالبة جامعية تحاول تحقيق أحلامها رغم انتمائها لعائلة فقيرة.
+Release Year: 1972
+Rating: 8.6
+
+Title: كتكوت
+Description: شاب بسيط يتورط في عملية تجسس دولية.
+Release Year: 2006
+Rating: 7.4
+
+Title: بوحه
+Description: رجل يعيد اكتشاف ذاته أثناء إدارة محل كباب.
+Release Year: 2005
+Rating: 7.1
+
+Title: جعلتني مجرمًا
+Description: شاب يتورط في مؤامرة تؤدي إلى تدمير حياته.
+Release Year: 2006
+Rating: 7.3
+
+Title: واحد من الناس
+Description: رجل بسيط يجد نفسه في مواجهة فساد النظام.
+Release Year: 2006
+Rating: 8.2
+
+Title: حسن ومرقص
+Description: دراما حول التعايش بين المسلمين والمسيحيين في مصر.
+Release Year: 2008
+Rating: 7.8
+
+Title: إسماعيلية رايح جاي
+Description: شاب يحاول تحقيق أحلامه الموسيقية رغم المصاعب.
+Release Year: 1997
+Rating: 7.9
+
+Title: مرجان أحمد مرجان
+Description: رجل أعمال يحاول استعادة علاقته بأبنائه من خلال دخول الجامعة.
+Release Year: 2007
+Rating: 7.5
+
+Title: الكيت كات
+Description: دراما عن الحياة اليومية لسكان حي الكيت كات الفقير.
+Release Year: 1991
+Rating: 8.5
+
+Title: أبو علي
+Description: لص شريف يقع في حب فتاة ويواجه تحديات بسبب ماضيه.
+Release Year: 2005
+Rating: 7.9
+
+Title: الممر
+Description: قصة مستوحاة من بطولات الجيش المصري خلال حرب الاستنزاف.
+Release Year: 2019
+Rating: 8.4
+
+Title: الحرام
+Description: امرأة فقيرة تكافح من أجل حياة كريمة لعائلتها.
+Release Year: 1965
+Rating: 8.7
+
+Title: الحريف
+Description: لاعب كرة شوارع يحاول التوفيق بين شغفه وحياته الأسرية.
+Release Year: 1984
+Rating: 8.1
+
+Title: البيه البواب
+Description: حارس عمارة بسيط يحاول تحسين ظروفه المعيشية.
+Release Year: 1987
+Rating: 7.8
+
+Title: البيه البواب
+Description: حارس عمارة بسيط يحاول تحسين ظروفه المعيشية.
+Release Year: 1987
+Rating: 7.8
+
+Title: زكي شان
+Description: شاب فاشل يقرر العمل كحارس شخصي لطفل ثري.
+Release Year: 2005
+Rating: 7.8
